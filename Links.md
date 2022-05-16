@@ -7,6 +7,7 @@
 | The OpenShift Container Platform | [Console](https://console-openshift-console.apps.stc-3.ls-ap.ole.redhat.com) |
 | OCP applications domain | apps.stc-3.ls-ap.ole.redhat.com |
 | GitLab URL | [GitLab](https://gitlab-ce.apps.stc-3.ls-ap.ole.redhat.com) |
+| Code Ready Workspaces | [CRW](https://codeready-tl500-workspaces.apps.stc-3.ls-ap.ole.redhat.com/) |
 
 -------
 ## Here you have more links related to the Labs Exercises
