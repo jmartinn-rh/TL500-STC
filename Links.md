@@ -22,3 +22,12 @@
 | [Open Practice Library](https://openpracticelibrary.com) |
 | [Agile Manifesto](https://agilemanifesto.org/) |
 | [Funny Retros & Energizers](https://www.funretrospectives.com/) |
+
+
+--------
+## Here you have the video links we watched during the course
+| Description |
+| ------------ |
+| [Product Owner in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE) |
+| [Dan Pink: What motivates us?](https://www.youtube.com/watch?v=u6XAPnuFjJc) |
+| [A day of Mob Programming](https://www.youtube.com/watch?v=dVqUcNKVbYg) |
