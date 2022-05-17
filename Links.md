@@ -32,3 +32,10 @@
 | [Product Owner in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE) |
 | [Dan Pink: What motivates us?](https://www.youtube.com/watch?v=u6XAPnuFjJc) |
 | [A day of Mob Programming](https://www.youtube.com/watch?v=dVqUcNKVbYg) |
+| [Pentagon Wars: Is not agile](https://youtu.be/aXQ2lO3ieBA) |
+
+---------
+## Slides
+| Description |
+| ------------ |
+| [TL500 Slides](https://rht-labs.com/tech-exercise/slides/) |
